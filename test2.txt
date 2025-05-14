@@ -1,1 +1,2 @@
 I have edited this file
+and then edited on the remote github server as well -now need to add > commit > pull changes to local git directory
